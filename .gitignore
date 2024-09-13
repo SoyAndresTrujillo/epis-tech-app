@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+.scannerwork
+
+# cypress
+cypress/screenshots
+cypress/videos
+
+# next.js
+/.next
+/out
+
+# cache
+.swc/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# debug
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv local files
+.env
+.env*.local
+
+# local folder
+local
+
+# vercel
+.vercel
+
+# this is only ignoring the all FOLDERS with this name if you name a file with this name it will not be ignored.
+__snapshots__/
