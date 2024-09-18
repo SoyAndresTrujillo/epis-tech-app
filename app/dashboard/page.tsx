@@ -13,7 +13,7 @@ export default async function Page() {
 
     const hrefOptions: hrefOptions = {
       FCEA: 'https://chatgpt.com/g/g-o3NMHn5g3-asistente-de-investigacion-fcea',
-      FCPA: 'https://chatgpt.com/g/g-Zy4RS1xU3-asistente-de-investigacion-fcpa ',
+      FCPA: 'https://chatgpt.com/g/g-Zy4RS1xU3-asistente-de-investigacion-fcpa',
       FITI: 'https://chatgpt.com/g/g-NS58TjYtF-asistente-de-investigacion-fit',
     };
 
