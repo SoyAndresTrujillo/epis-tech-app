@@ -46,3 +46,6 @@ local
 
 # this is only ignoring the all FOLDERS with this name if you name a file with this name it will not be ignored.
 __snapshots__/
+
+#Files Data
+./app/lib/placeholder-data.ts
